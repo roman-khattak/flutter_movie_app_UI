@@ -54,7 +54,7 @@ final Movie movie;   // 'movie' object is the required input and here the whole 
                       Colors.transparent,
                       Color(0xFF000B49)
                     ],
-                    begin: Alignment.topCenter,  // gradient will start from topCenter
+                    begin: Alignment.topCenter,  // gradient will start from topCenter.
                     end: Alignment.bottomCenter, // gradient will end at bottomCenter
                     stops: [0.3,0.5]    //this 'stops' concept is explained in 'movie_list_screen'
 
